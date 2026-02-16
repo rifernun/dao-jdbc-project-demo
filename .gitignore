@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
-.properties
+db.properties
 
 ### Eclipse ###
 .apt_generated
